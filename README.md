@@ -1,5 +1,7 @@
 # task-list-express-be
-A rest app for a task list.
+A simple, but complete, REST app for a task list.
+Using express + sequelize + DB Postgress.
+
 
 ## install
 yarn
@@ -7,4 +9,4 @@ yarn
 ## execute
 yarn dev
 
-### import insomina.json to see a rest calls
+### import insomina.json in INSOMINA (Like a postman) to see the rest calls
